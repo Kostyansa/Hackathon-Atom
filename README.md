@@ -9,8 +9,8 @@
 </ul> 
 <h4>Особенность проекта в следующем:</h4>
 <ul>
- <li>----</li>
- </ul>
+    <li>---;</li>
+</ul>
 <h4>Основной стек технологий:</h4>
 <ul>
 	<li>HTML, CSS, JavaScript, TypeScript.</li>
