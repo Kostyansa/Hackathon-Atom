@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Наименование проекта</h1>
+    <h1 align="center">Платформа организации стажировок</h1>
     <br>
 </p>
 
